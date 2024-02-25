@@ -1,6 +1,2 @@
 I am in develop branch.
-<<<<<<< HEAD
-updated hotfix bug
-=======
-Hotfix bug fix
->>>>>>> hotfix
+Running into merge conflict
