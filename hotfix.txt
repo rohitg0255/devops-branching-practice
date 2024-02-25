@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am running hotfix
+=======
+I am in hotfix branch.
+>>>>>>> hotfix
